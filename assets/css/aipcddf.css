@@ -1,0 +1,9 @@
+
+#auto-import-products-cart-dragdropfile-uploder {
+	border: 1px dashed #000;
+	background-image: url(../img/drag-drop.svg);
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center center;
+	/* filter: invert(1) hue-rotate(360deg); */
+}

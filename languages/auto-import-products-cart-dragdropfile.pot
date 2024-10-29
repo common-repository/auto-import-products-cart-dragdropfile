@@ -1,0 +1,59 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Automated Import Products to Cart\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-07-29 15:09+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Automated Import Products to Cart"
+msgstr ""
+
+msgid ""
+"Automatic WooCommerce Products Import to Cart via Drag and Drop "
+"WordPress plugin."
+msgstr ""
+
+msgid "Atakan Au"
+msgstr ""
+
+msgid "https://atakanau.blogspot.com"
+msgstr ""
+
+msgid "Error while processing file"
+msgstr ""
+
+msgid "Error: "
+msgstr ""
+
+msgid "File uploaded"
+msgstr ""
+
+msgid "Security check failed!"
+msgstr ""
+
+msgid "There is nothing to upload!"
+msgstr ""
+
+msgid "File format not allowed"
+msgstr ""
+
+msgid "Error: Suspicious content"
+msgstr ""
+
+msgid "Error: File not saved."
+msgstr ""
+
+msgid "There is nothing to import."
+msgstr ""
+
+msgid "Invalid CSV data."
+msgstr ""
+
